@@ -8,8 +8,8 @@
 .onp-sociallocker .onp-sociallocker-timer,
 .onp-sociallocker .onp-sociallocker-error-title,
 .onp-sociallocker-error-text {
-    font: normal normal 400 13px/23px "Arial", "Helvetica", sans-serif;;
-    color: #111;
+    font: normal normal 400 13px/23px "Droid Arabic Kufi", "Helvetica", sans-serif;;
+    color: #15a2d9;
 }
 
 .onp-sociallocker iframe {
@@ -62,6 +62,7 @@
     font-size: 16px;
     font-weight: bold;
     display: inline-block;
+        color: black;
 }
 
 /**
