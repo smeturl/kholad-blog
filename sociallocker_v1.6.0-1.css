@@ -391,7 +391,8 @@
     width: 11px;
     height: 14px;
     margin: 0 9px;
-    background: url('https://1.bp.blogspot.com/-obdeQY9Tcn0/X_Lkyg9yMKI/AAAAAAAABV8/fyM6MFp3aJI5cmLtKlqz29FSBPv5x_fbwCLcBGAsYHQ/s16000/61457.png') 0px 2px no-repeat;
+    content: "\f023";
+    font-family: fontawesome;
 }
 @media screen and (max-width: 500px) 
 {
